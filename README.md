@@ -92,34 +92,6 @@ I build **custom defense strategies** based on:
 
 ---
 
-## 📊 Security Operations Stats
-
-<p align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SokolovSec&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovSec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
-## 🏆 Professional Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SokolovSec&theme=onedark&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SokolovSec/SokolovSec/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
-
 ## 📫 Contact
 
 💬 Telegram: **@bbtct**  
