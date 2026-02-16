@@ -11,8 +11,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/bbtct">
-    <img src="https://img.shields.io/badge/Telegram-@bbtct-0078ff?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://t.me/SokolovSec">
+    <img src="https://img.shields.io/badge/Telegram-@SokolovSec-0078ff?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Focus-Blue%20Team-0a84ff?style=for-the-badge&logo=shield&logoColor=white">
 </p>
@@ -94,7 +94,7 @@ I build **custom defense strategies** based on:
 
 ## 📫 Contact
 
-💬 Telegram: **@bbtct**  
+💬 Telegram: **@SokolovSec**  
 🛡 Corporate Defense / Security Consulting  
 🔐 Private Projects available  
 
